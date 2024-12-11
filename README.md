@@ -7,7 +7,7 @@
 # table
 in side the () mentined the text alignment 
 | name (left / default)  | nick name (center) | Birth month (rigth) |
-| :---: | --- | --- |
+| :---  | :---: | ---: |
 |bhaskar | nani | april |
 |prasanthi | sudha | novemner |
 |jhansi | chitti | april|
