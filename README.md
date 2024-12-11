@@ -14,11 +14,38 @@ in side the () mentined the text alignment
 
 # images & urls 
 
-[](www.gmail.com)
-[img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3tmXcnba0mabFveor-O65mFX0upY5GBQwCQ&s)
+[gmail](www.gmail.com)
+![img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3tmXcnba0mabFveor-O65mFX0upY5GBQwCQ&s)
 
 # check boxs
--[] html
+-[ ] html
 
 
 -[x] html checked 
+
+# garph bars
+>
+>>>
+>>>>
+
+#li and ui
+1.nani
+1.sai
+  1.kiran
+2.bhaksar
+
+
+- ssv
+- sasi
+   - tpg
+ 
+
+
+\\\<html>
+  <head>
+    head part
+  </head>
+  <body>
+    body part
+  </body>
+</html>\\\
